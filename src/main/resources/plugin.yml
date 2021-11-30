@@ -1,0 +1,10 @@
+name: PrimeItemFilter
+version: '${project.version}'
+main: me.viiral.primeitemfilter.PrimeItemFilter
+api-version: 1.17
+authors: [ ViiRal ]
+description: itemfilter
+commands:
+  filter:
+    description: Filter items.
+    aliases: [itemfilter, filters]
